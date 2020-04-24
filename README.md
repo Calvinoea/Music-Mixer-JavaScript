@@ -1,6 +1,6 @@
 # Music-Mixer-JavaScript
 
-Music Mixer made with HTML, CSS, JavaScript, and JQuery. 
+Make music fun again with the Music Mixer built with HTML, CSS, JavaScript, and JQuery. 
 
 The features include:
 
